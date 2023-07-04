@@ -930,11 +930,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\dev\\ATIVIDADES_ModuloB\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\João Carlos\\Desktop\\ATIVIDADES_ModuloB\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "d:\\dev\\ATIVIDADES_ModuloB\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "C:\\Users\\João Carlos\\Desktop\\ATIVIDADES_ModuloB\\Biblioteca - netcore3.1\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\João Carlos\\.nuget\\packages\\",
-      "outputPath": "d:\\dev\\ATIVIDADES_ModuloB\\Biblioteca\\obj\\",
+      "outputPath": "C:\\Users\\João Carlos\\Desktop\\ATIVIDADES_ModuloB\\Biblioteca - netcore3.1\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\João Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"

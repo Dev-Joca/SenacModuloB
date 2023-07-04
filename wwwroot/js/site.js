@@ -1,4 +1,10 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
+﻿function checkBook ()
+{
+    console.log("Deu GREEN!");
+    let bookName = document.getElementById('bookName');
+    let bookAuthor = document.getElementById('bookAuthor');
+    let bookDate = document.getElementById('bookDate');
+    console.log(bookName);
+    console.log(bookAuthor);
+    console.log(bookDate);    
+};
